@@ -66,3 +66,10 @@ This project was created to practice **Flutter app development, UI design, local
 **Hariom Patidar**
 
 Flutter Developer — Beginner / Student
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](assets/screenshots/home.png)
+
+### Add Task Screen
+![Add Task Screen](assets/screenshots/task_add.png)
