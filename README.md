@@ -1,17 +1,68 @@
-# my_app
+# 📚 Student Task Manager
 
-A new Flutter project.
+A simple and user-friendly **Student Task Manager app built with Flutter and Dart**.
 
-## Getting Started
+This app helps students manage their daily tasks by adding tasks, tracking completed tasks, and deleting tasks when they are no longer needed.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- ➕ Add new tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks
+- 💾 Save tasks locally
+- 🔐 Login screen
+- 📱 Simple and clean Flutter UI
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**
+- **Dart**
+- **SharedPreferences**
+- **Material Design**
+- **Git & GitHub**
+
+## 📂 Project Structure
+
+```text
+lib/
+├── main.dart
+└── login_screen.dart
+
+assets/
+├── images/
+└── sound/
+```
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/hariompatidar802-cell/student-task-manager.git
+```
+
+### 2. Open the project
+
+Open the project in **VS Code** or Android Studio.
+
+### 3. Install dependencies
+
+```bash
+flutter pub get
+```
+
+### 4. Run the app
+
+```bash
+flutter run
+```
+
+## 🎯 Purpose
+
+This project was created to practice **Flutter app development, UI design, local data storage, and basic application functionality**.
+
+## 👨‍💻 Developer
+
+**Hariom Patidar**
+
+Flutter Developer — Beginner / Student
